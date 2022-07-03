@@ -11,8 +11,8 @@ import 'event_data.mocks.dart';
 
 @GenerateMocks([Dio])
 void main() {
-  late final Dio dio;
-  late final EventData eventData;
+  late Dio dio;
+  late EventData eventData;
   setUp(() {
     dio = MockDio();
     eventData = EventData(dio);

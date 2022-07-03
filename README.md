@@ -1,20 +1,17 @@
-<<<<<<< HEAD
 # digital11
 
-A new Flutter project.
+for testing run
+```
+flutter test
+```
+for bulding apk
+```
+flutter build apk
+```
+for building ios
+```
+flutter build ios
+```
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# digital11
->>>>>>> 958ed52331f0d23fb70ba31cb11570eaf14044ca
